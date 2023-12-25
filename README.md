@@ -15,8 +15,8 @@ Non-cancerous ovary cell line
 OELE
 
 Gastric cancer cell line 
-MK28
+HK28
 
 Lung epithelial cancer cell line
-A459
+A549
 
