@@ -14,4 +14,9 @@ OVKATE
 Non-cancerous ovary cell line 
 OELE
 
+Gastric cancer cell line 
+MK28
+
+Lung epithelial cancer cell line
+A459
 
