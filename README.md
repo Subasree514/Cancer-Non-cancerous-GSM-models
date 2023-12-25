@@ -10,9 +10,7 @@ Non-cancerous breast cell line - HMEL.
 High-grade serous ovarian cancer cell line - OVKATE.
 Non-cancerous ovary cell line - OELE.
 
-Gastric cancer cell line 
-HK28
+Gastric cancer cell line - HK28
 
-Lung epithelial cancer cell line
-A549
+Lung epithelial cancer cell line - A549
 
