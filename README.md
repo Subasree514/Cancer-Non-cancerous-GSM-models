@@ -1,8 +1,7 @@
 Details of the cell line models and their Reactive Species integrated models
 
-Colorectal cancer cell lines
--Cancer - SW620
--Non-cancerous - Hs255T
+Colorectal cancer cell line - SW620
+Non-cancerous colon cell line - Hs255T
 
 Triple-negative breast cancer cell line - HCC1143.
 Non-cancerous breast cell line - HMEL.
